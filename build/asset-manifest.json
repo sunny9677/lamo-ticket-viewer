@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/lamo-ticket-viewer/static/js/main.f835cbbe.js",
+    "index.html": "/lamo-ticket-viewer/index.html",
+    "main.f835cbbe.js.map": "/lamo-ticket-viewer/static/js/main.f835cbbe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f835cbbe.js"
+  ]
+}
